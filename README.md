@@ -1,1 +1,2 @@
 # Movie Rater
+// This program presents the user with a movie title and year it was released, it will then ask the user to rate the movie from one star to 5 (*, **, ***, ****, *****). The program will keep requesting the user to enter ratings until they request to exit the program by entering in "exit". Once the user requests to exit the program, all ratings made by the user will be saved back to the JSON files.

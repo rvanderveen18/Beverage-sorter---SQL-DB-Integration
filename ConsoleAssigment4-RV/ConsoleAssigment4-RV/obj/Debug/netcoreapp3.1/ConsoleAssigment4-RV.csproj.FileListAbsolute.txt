@@ -1,0 +1,14 @@
+C:\Users\Ryan\Desktop\School\Fall 2021\CIS 207\Assignments\Console Assignment 4\ConsoleAssignment4-RV\ConsoleAssigment4-RV\ConsoleAssigment4-RV\bin\Debug\netcoreapp3.1\ConsoleAssigment4-RV.exe
+C:\Users\Ryan\Desktop\School\Fall 2021\CIS 207\Assignments\Console Assignment 4\ConsoleAssignment4-RV\ConsoleAssigment4-RV\ConsoleAssigment4-RV\bin\Debug\netcoreapp3.1\ConsoleAssigment4-RV.deps.json
+C:\Users\Ryan\Desktop\School\Fall 2021\CIS 207\Assignments\Console Assignment 4\ConsoleAssignment4-RV\ConsoleAssigment4-RV\ConsoleAssigment4-RV\bin\Debug\netcoreapp3.1\ConsoleAssigment4-RV.runtimeconfig.json
+C:\Users\Ryan\Desktop\School\Fall 2021\CIS 207\Assignments\Console Assignment 4\ConsoleAssignment4-RV\ConsoleAssigment4-RV\ConsoleAssigment4-RV\bin\Debug\netcoreapp3.1\ConsoleAssigment4-RV.runtimeconfig.dev.json
+C:\Users\Ryan\Desktop\School\Fall 2021\CIS 207\Assignments\Console Assignment 4\ConsoleAssignment4-RV\ConsoleAssigment4-RV\ConsoleAssigment4-RV\bin\Debug\netcoreapp3.1\ConsoleAssigment4-RV.dll
+C:\Users\Ryan\Desktop\School\Fall 2021\CIS 207\Assignments\Console Assignment 4\ConsoleAssignment4-RV\ConsoleAssigment4-RV\ConsoleAssigment4-RV\bin\Debug\netcoreapp3.1\ConsoleAssigment4-RV.pdb
+C:\Users\Ryan\Desktop\School\Fall 2021\CIS 207\Assignments\Console Assignment 4\ConsoleAssignment4-RV\ConsoleAssigment4-RV\ConsoleAssigment4-RV\obj\Debug\netcoreapp3.1\ConsoleAssigment4-RV.csproj.AssemblyReference.cache
+C:\Users\Ryan\Desktop\School\Fall 2021\CIS 207\Assignments\Console Assignment 4\ConsoleAssignment4-RV\ConsoleAssigment4-RV\ConsoleAssigment4-RV\obj\Debug\netcoreapp3.1\ConsoleAssigment4-RV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryan\Desktop\School\Fall 2021\CIS 207\Assignments\Console Assignment 4\ConsoleAssignment4-RV\ConsoleAssigment4-RV\ConsoleAssigment4-RV\obj\Debug\netcoreapp3.1\ConsoleAssigment4-RV.AssemblyInfoInputs.cache
+C:\Users\Ryan\Desktop\School\Fall 2021\CIS 207\Assignments\Console Assignment 4\ConsoleAssignment4-RV\ConsoleAssigment4-RV\ConsoleAssigment4-RV\obj\Debug\netcoreapp3.1\ConsoleAssigment4-RV.AssemblyInfo.cs
+C:\Users\Ryan\Desktop\School\Fall 2021\CIS 207\Assignments\Console Assignment 4\ConsoleAssignment4-RV\ConsoleAssigment4-RV\ConsoleAssigment4-RV\obj\Debug\netcoreapp3.1\ConsoleAssigment4-RV.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Desktop\School\Fall 2021\CIS 207\Assignments\Console Assignment 4\ConsoleAssignment4-RV\ConsoleAssigment4-RV\ConsoleAssigment4-RV\obj\Debug\netcoreapp3.1\ConsoleAssigment4-RV.dll
+C:\Users\Ryan\Desktop\School\Fall 2021\CIS 207\Assignments\Console Assignment 4\ConsoleAssignment4-RV\ConsoleAssigment4-RV\ConsoleAssigment4-RV\obj\Debug\netcoreapp3.1\ConsoleAssigment4-RV.pdb
+C:\Users\Ryan\Desktop\School\Fall 2021\CIS 207\Assignments\Console Assignment 4\ConsoleAssignment4-RV\ConsoleAssigment4-RV\ConsoleAssigment4-RV\obj\Debug\netcoreapp3.1\ConsoleAssigment4-RV.genruntimeconfig.cache

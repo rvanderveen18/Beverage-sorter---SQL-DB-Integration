@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "r+whzzUjOa/EYIo2pd7FSAWdN0IKk5mWav8EbZC9FA9LJhTDd7m4qkMvx18zlI7WIvSmPfqhOmCnv5+HN+H8ng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ryanv\\OneDrive\\Desktop\\School\\Fall 2021\\CIS 207\\Assignments\\Console Assignment 4\\ConsoleAssignment4-RV\\ConsoleAssigment4-RV\\ConsoleAssigment4-RV\\ConsoleAssigment4-RV.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ryanv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512",
+    "C:\\Users\\ryanv\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\ryanv\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ryanv\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
